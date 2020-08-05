@@ -1,2 +1,5 @@
 * @Jme7 @Ksid6
 /.github/ @Jme7
+*.js @Jme7
+*.html @Jme7
+*.css @Jme7
