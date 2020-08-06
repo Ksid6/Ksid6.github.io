@@ -1,1 +1,13 @@
-
+body {
+  background: #005500;
+  color: yellow;
+}
+a {
+  color: #aaaaff;
+}
+a:hover {
+  color: blue;
+  background: silver;
+  padding: 5px;
+  border: 5px double #7700aa;
+}
